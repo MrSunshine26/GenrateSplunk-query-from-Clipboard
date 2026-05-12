@@ -21,6 +21,9 @@ Copy ID → Run script → Paste into Splunk
 Copy the code from Powershell script into whatever PowerShell IDE you use. (I used ISE)
 Save as a name of your choice and location of choice. 
 
+Change the SPL to your chosen search
+<img width="550" height="79" alt="image" src="https://github.com/user-attachments/assets/9c068a30-139f-4b3e-962d-dcdee87433d5" />
+
 Locate script, right click and select shortcut.  
 ![image](https://github.com/MrSunshine26/DefangURLClip/assets/175027685/b902cbd0-887b-4f66-aaaa-e0284dfac288)
 
