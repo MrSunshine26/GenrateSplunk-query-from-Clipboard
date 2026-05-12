@@ -22,6 +22,7 @@ Copy the code from Powershell script into whatever PowerShell IDE you use. (I us
 Save as a name of your choice and location of choice. 
 
 Change the SPL to your chosen search
+
 <img width="550" height="79" alt="image" src="https://github.com/user-attachments/assets/9c068a30-139f-4b3e-962d-dcdee87433d5" />
 
 Locate script, right click and select shortcut.  
